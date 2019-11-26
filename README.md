@@ -20,8 +20,8 @@ For additional questions, information, or examples of my work, I can be reached 
 ## In Progress: Capstone Project - Customer Value Predictions and Segmentation
 * Stack: Python, SciKit-Learn, XGBoost, Tableau
 * In partnership with a local sign manufacturer, machine learning models will be used in the following ways:
-..* Marketing Strategy: Unsupervised K-Means modelling for customer RFM Values resulting in a segmented approach to marketing (Ex: Price incentives for Churned Best Customers (RFM Scores of 133, 143, 134))
-..* Sales Strategy: Develop supervised classification models to predict if customers within top 20% (Logistic Regression, Decision Tree, Random Forest, XGBoost). False positives are minimized in order to ensure sales budget isn’t spent on customers who won’t provide a high ROI.
+     * Marketing Strategy: Unsupervised K-Means modelling for customer RFM Values resulting in a segmented approach to marketing (Ex: Price incentives for Churned Best Customers (RFM Scores of 133, 143, 134))
+     * Sales Strategy: Develop supervised classification models to predict if customers within top 20% (Logistic Regression, Decision Tree, Random Forest, XGBoost). False positives are minimized in order to ensure sales budget isn’t spent on customers who won’t provide a high ROI.
 
 
 
