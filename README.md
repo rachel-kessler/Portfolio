@@ -17,7 +17,7 @@ For additional questions, information, or examples of my work, I can be reached 
 * Stack: SQL
 * Summary: Conducted an analysis of 10+ million Bixi bike sharing trips in Montreal using MySQL.
 
-## In Progress: Capstone Project - Customer Value Predictions and Segmentation
+## Capstone Project - Customer Value Predictions and Segmentation
 * Stack: Python, SciKit-Learn, XGBoost, Tableau
 * In partnership with a local B2B business, machine learning models are used in the following ways:
      * Marketing Strategy: Fit an unsupervised K-Means model for customer features (including demographics and purchase history) resulting in a segmented approach to marketing (Ex: Price incentives for Churned Best Customers).
