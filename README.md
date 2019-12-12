@@ -18,10 +18,10 @@ For additional questions, information, or examples of my work, I can be reached 
 * Summary: Conducted an analysis of 10+ million Bixi bike sharing trips in Montreal using MySQL.
 
 ## Capstone Project - Customer Value Predictions and Segmentation
-* Stack: Python, SciKit-Learn, XGBoost, Tableau
-* In partnership with a local B2B business, machine learning models are used in the following ways:
-     * Marketing Strategy: Fit an unsupervised K-Means model for customer features (including demographics and purchase history) resulting in a segmented approach to marketing (Ex: Price incentives for Churned Best Customers).
-     * Sales Strategy: Develop supervised classification models to predict if customers are within top 20% (using Logistic Regression, Decision Tree, Random Forest, and XGBoost). False positives are minimized in order to ensure sales budget isn’t spent on customers who won’t provide a high ROI.
+* Stack: Python, SciKit-Learn, XGBoost, Plotly
+* In partnership with a local B2B manufacturing business, machine learning models were developed in the following ways:
+     * Marketing Strategy: An unsupervised K-Means model was fit on customer value attributes resulting in a segmented approach to marketing (Ex: Price incentives for Churned Best Customers). The clusters were used to understand shared characteristics amongst the segments.
+     * Sales Strategy: A supervised classification model was developed to predict if potential new customers will contribute an annual revenue greater than $5000 (using Logistic Regression and XGBoost classifiers). The models hyperparameters were optimized by minimizing false positives (maximizing precision) in order to ensure sales budget isn’t spent on customers who won’t provide a high ROI. The resulting model helps the company take a list of sales leads and narrow the focus down to key accounts.
 
 
 
