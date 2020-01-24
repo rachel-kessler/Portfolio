@@ -17,6 +17,10 @@ For additional questions, information, or examples of my work, I can be reached 
 * Stack: SQL
 * Summary: Conducted an analysis of 10+ million Bixi bike sharing trips in Montreal using MySQL.
 
+## Analysis of Kickstarter Campaigns
+* Stack: SQL, Tableau
+* Summary: Analyzed success of various 300,000+ Kickstarter campaigns in order to provide insights into the success of various campaigns. Created a simple interactive Tableau dashboard to showcase results. <a href="https://public.tableau.com/shared/839GZNK9N?:display_count=y&:origin=viz_share_link">View the dashboard here</a>
+
 ## Capstone Project - Customer Value Predictions and Segmentation
 * Stack: Python, SciKit-Learn, XGBoost, Plotly
 * In partnership with a local B2B manufacturing business, machine learning models were developed in the following ways:
