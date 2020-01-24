@@ -5,6 +5,10 @@ Here I have compiled a running list of my current and previous projects. I have 
 
 For additional questions, information, or examples of my work, I can be reached at rachelkessler48@gmail.com.
 
+## Analysis of Kickstarter Campaigns
+* Stack: SQL, Tableau
+* Summary: Analyzed success of various 300,000+ Kickstarter campaigns in order to provide insights into the success of various campaigns. Created a simple interactive Tableau dashboard to showcase results. <a href="https://public.tableau.com/shared/839GZNK9N?:display_count=y&:origin=viz_share_link">View the dashboard here</a>
+
 ## Digit Classification using the MNIST Dataset
 * Stack: Python, SciKit-Learn
 * Summary: Tested various machine learning classification models in order to predict handwritten digits using the MNIST datasest. Models utilized and analyzed include: Logistic Regression, KNN, and Decision Trees. A 5-fold cross validation was used to optimize the hyperparameters.
@@ -16,10 +20,6 @@ For additional questions, information, or examples of my work, I can be reached 
 ## Montreal Bike Sharing Analysis
 * Stack: SQL
 * Summary: Conducted an analysis of 10+ million Bixi bike sharing trips in Montreal using MySQL.
-
-## Analysis of Kickstarter Campaigns
-* Stack: SQL, Tableau
-* Summary: Analyzed success of various 300,000+ Kickstarter campaigns in order to provide insights into the success of various campaigns. Created a simple interactive Tableau dashboard to showcase results. <a href="https://public.tableau.com/shared/839GZNK9N?:display_count=y&:origin=viz_share_link">View the dashboard here</a>
 
 ## Capstone Project - Customer Value Predictions and Segmentation
 * Stack: Python, SciKit-Learn, XGBoost, Plotly
