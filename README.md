@@ -7,7 +7,7 @@ For additional questions, information, or examples of my work, I can be reached 
 
 ## Analysis of Kickstarter Campaigns
 * Stack: SQL, Tableau
-* Summary: Analyzed success of various 300,000+ Kickstarter campaigns in order to provide insights into the success of various campaigns. Created a simple interactive Tableau dashboard to showcase results. <a href="https://public.tableau.com/shared/839GZNK9N?:display_count=y&:origin=viz_share_link">View the dashboard here</a>
+* Summary: Analyzed success of various 300,000+ Kickstarter campaigns in order to provide insights into the success of various campaigns. Created a simple interactive Tableau dashboard to showcase results. 
 
 ## Digit Classification using the MNIST Dataset
 * Stack: Python, SciKit-Learn
